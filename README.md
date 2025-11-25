@@ -15,7 +15,7 @@ Reflect on growth in logic, syntax, debugging, and code structuring.
 
 Language: C (the repository contains only C files so far) 
 
-Editor: VS Code 
+Editor: VS Code
 
 Version control: Git & GitHub
 
