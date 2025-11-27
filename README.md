@@ -1,5 +1,6 @@
 # 100-days-of-code
-This repository chronicles my journey of coding every day for 100 days as part of my college assignment. It’s intended to help me build consistency, improve my problem‑solving skills, and deepen my understanding of programming.
+
+This repository documents my 100-day coding journey undertaken as part of a college assignment. It reflects my commitment to developing consistent coding habits, strengthening problem-solving abilities, and deepening my understanding of core programming concepts.
 
 ## 📌 Objective
 
@@ -7,7 +8,7 @@ Code daily for 100 consecutive days.
 
 Explore and learn key programming concepts, data structures, algorithms.
 
-Solve problems, build mini‑projects, and track progress.
+Solve problems and track progress.
 
 Reflect on growth in logic, syntax, debugging, and code structuring.
 
@@ -25,12 +26,12 @@ Each day is numbered and corresponds to an individual problem or exercise.
 
 - Execution:
 
-Each file is self-contained and can be compiled/executed independently.
+Each file is self-contained and can be compiled independently.
 
 Example for compiling C code:
 
-## gcc Day001_Problem1.c -o Day001_Problem1
-## ./Day001_Problem1
+## gcc 590024460-princy-01-Q1.c -o 590024460-princy-01-Q1
+## ./590024460-princy-01-Q1
 
 In this repository the files follow naming conventions like 590024460-princy-01-Q1.c, etc. 
 GitHub
@@ -63,7 +64,7 @@ And other programming fundamentals
 
 Started coding daily and committing changes to GitHub.
 
-Completed [96] days of the challenge.
+Completed 99 days of the challenge.
 
 Gained better comfort with C programming and improved debugging proficiency.
 
@@ -71,7 +72,7 @@ Gained better comfort with C programming and improved debugging proficiency.
 
 Each code file is intended to be self‑contained and readable (with comments where necessary).
 
-Feel free to browse the repository, inspect solutions, and offer feedback.
+Feel free to browse the repository, inspect solutions.
 
 ## 📬 Contact
 
