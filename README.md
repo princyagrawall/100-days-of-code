@@ -64,7 +64,7 @@ And other programming fundamentals
 
 Started coding daily and committing changes to GitHub.
 
-Completed 99 days of the challenge.
+Completed 100 days of the challenge.
 
 Gained better comfort with C programming and improved debugging proficiency.
 
